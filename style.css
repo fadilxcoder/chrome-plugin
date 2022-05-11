@@ -1,0 +1,14 @@
+body {
+    width: 160px;
+}
+
+button {
+    background-color: #ff1010;
+    outline: none;
+    margin: 10px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    padding: 5px;
+    color: white;
+}
